@@ -4,3 +4,11 @@ c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NET.Week
 c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NET.WeekOne\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NET.WeekOne\Client\obj\Debug\Client.exe
 c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NET.WeekOne\Client\obj\Debug\Client.pdb
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\bin\Debug\Client.exe.config
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\bin\Debug\Client.exe
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\bin\Debug\Client.pdb
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\bin\Debug\DataLayer.dll
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\bin\Debug\DataLayer.pdb
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\obj\Debug\Client.exe
+C:\Users\ОрунбаеваС\Documents\GitHub\ADO.NET\ADO.NET.WeekOne\Client\obj\Debug\Client.pdb
